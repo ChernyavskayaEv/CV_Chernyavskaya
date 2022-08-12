@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const textAnimated = document.querySelector('.animated-intro');
   textAnimated.innerHTML = '';
-  const text = `I'm 40. At the moment I live in Bendery, Moldova. I love traveling and try not to miss the opportunity to see
+  const text = `I'm 40. At the moment I live in Bendery, Moldova. I love travelling and try not to miss the opportunity to see
 something new.`;
   const text_ru = `Мне 40. На данный момент я живу в Бендерах, Молдова. Люблю путешествовать и стараюсь не упускать возможности увидеть что-то новое.`;
   let textList = [...text];
